@@ -1,4 +1,4 @@
-# app2
+# Mood tracker app.
 
 A new Flutter project.
 
